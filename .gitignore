@@ -6,3 +6,11 @@ env/
 # Python cache
 __pycache__/
 *.pyc
+
+
+*.png
+*.js
+*.csv
+*.html
+
+.DS_Store
