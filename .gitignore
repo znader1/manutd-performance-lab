@@ -14,3 +14,7 @@ __pycache__/
 *.html
 
 .DS_Store
+
+*checkpoint.ipynb
+*checkpoint.txt
+data
